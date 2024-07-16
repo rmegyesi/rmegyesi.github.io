@@ -4,15 +4,29 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Robert Megyesi.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a software engineer from Budapest, Hungary.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Professional experience
 
+I consider myself a general, all-rounded software engineer with experience in various projects, to name a few:
 
-[jekyll-organization]: https://github.com/jekyll
+* Identity management solutions with Keycloak and ADFS
+* BPM solution using Camunda
+* Media streaming using ffmpeg
+* Admin applications
+
+## Tech stack
+
+I am usually involved in both the backend and frontend side of the projects, however my strength lies more in the
+backend.
+
+I build my apps with **Java**, preferably on **Quarkus**.
+
+I use other languages and technologies where it is reasonable:
+
+* JavaScript
+* Bash
+
+Check out my repos on [GitHub](https://github.com/rmegyesi).
