@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MicroProfile Config Docgen Maven Plugin preview"
-date: 2024-07-16 15:31:00 +0200
+date: 2024-07-16 16:32:00 +0200
 categories: microprofile config maven plugin generator
 ---
 
