@@ -24,7 +24,6 @@ description: >-
   Robert Megyesi`s personal site
 baseurl: ""
 url: "https://rmegyesi.github.io"
-twitter_username: ""
 github_username: rmegyesi
 
 # Build settings
