@@ -8,7 +8,7 @@ My name is Robert Megyesi.
 
 I am a software engineer from Budapest, Hungary.
 
-## Professional experience
+# Professional experience
 
 I consider myself a general, all-rounded software engineer with experience in various projects, to name a few:
 
@@ -17,7 +17,7 @@ I consider myself a general, all-rounded software engineer with experience in va
 * Media streaming using ffmpeg
 * Admin applications
 
-## Tech stack
+# Tech stack
 
 I am usually involved in both the backend and frontend side of the projects, however my strength lies more in the
 backend.
