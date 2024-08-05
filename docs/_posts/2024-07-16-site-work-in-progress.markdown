@@ -2,7 +2,7 @@
 layout: post
 title:  "Site work-in-progress"
 date:   2024-07-16 15:31:00 +0200
-categories: site update
+category: site
 ---
 Good to see you here!
 

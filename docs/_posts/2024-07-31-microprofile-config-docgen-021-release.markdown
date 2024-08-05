@@ -1,8 +1,13 @@
 ---
 layout: post
-title: "MicroProfile Config Docgen Maven Plugin 0.2.1 released
+title: MicroProfile Config Docgen Maven Plugin 0.2.1 released
 date: 2024-07-31 17:28:00 +0200
-categories: microprofile config maven plugin generator
+tags:
+  - microprofile
+  - config
+  - maven
+  - plugin
+category: releases
 ---
 # Fixes
 
